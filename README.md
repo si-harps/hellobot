@@ -38,3 +38,17 @@ app.use(hellobot.koa());
 // Express coming soon
 ```
 
+### Caching the results
+
+Supply an initialized redis client to persist HTML to cache for blazing fast loadspeed.
+
+```javascript
+var redis = { ...my-redis-instance };
+
+var Hellobot = require('hellobot').server;
+var hellobot = new Hellobot({ 
+	client: redis 
+});
+
+hellobot.req({ location: 'https://www.example.com/blog' })
+```
