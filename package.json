@@ -10,7 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/si-harps/hellobot.git"
   },
-  "keywords": [],
+  "keywords": [
+    "webcrawler",
+    "isomorphic",
+    "universal",
+    "html",
+    "react",
+    "phantomjs"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {

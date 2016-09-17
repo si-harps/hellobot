@@ -1,3 +1,7 @@
-# hellobot
+# Hellobot
+## A friendly server side html rendering engine
 
-testing
+```npm install hellobot```
+
+### Introduction
+
