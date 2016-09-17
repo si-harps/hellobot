@@ -1,5 +1,5 @@
 # Hellobot
-#### A friendly javascript pre-rendering engine
+## A friendly javascript pre-rendering engine
 
 ```javascript
 npm install hellobot
