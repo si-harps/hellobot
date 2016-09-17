@@ -1,0 +1,26 @@
+{
+  "name": "hellobot",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/si-harps/hellobot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/si-harps/hellobot/issues"
+  },
+  "homepage": "https://github.com/si-harps/hellobot#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "cheerio": "^0.22.0",
+    "html-minifier": "^3.0.3",
+    "node-horseman": "^3.1.1"
+  }
+}
