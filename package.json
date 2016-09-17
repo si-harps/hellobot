@@ -1,6 +1,6 @@
 {
   "name": "hellobot",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,8 @@
     "universal",
     "html",
     "react",
-    "phantomjs"
+    "phantomjs",
+    "SEO"
   ],
   "author": "",
   "license": "MIT",
