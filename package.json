@@ -1,6 +1,6 @@
 {
   "name": "hellobot",
-  "version": "1.0.4",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/si-harps/hellobot.git"
   },
-  "keywords": [],
+  "keywords": [
+    "webcrawler",
+    "isomorphic",
+    "universal",
+    "html",
+    "react",
+    "phantomjs",
+    "SEO"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
