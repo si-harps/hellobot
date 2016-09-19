@@ -1,6 +1,6 @@
 {
   "name": "hellobot",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,7 @@
     "cheerio": "^0.22.0",
     "html-minifier": "^3.0.3",
     "node-horseman": "^3.1.1",
+    "phantomjs-prebuilt": "^2.1.12",
     "request": "^2.74.0",
     "thunkify-wrap": "^1.0.4"
   }
